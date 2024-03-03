@@ -37,4 +37,4 @@ inventory.addproduct(product1)
 inventory.addproduct(product2)
 inventory.addproduct(product3)
 
-inventory.deleteProduct('Cargo Pant')
+inventory.deleteProduct('Cargo Pant');

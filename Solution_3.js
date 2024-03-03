@@ -32,8 +32,8 @@ class Temperature {
 
 const temperature = new Temperature()
 
-console.log(`Initial Celcius: ${temperature.getCelcius}°C`); // Outputs: Initial Celcius
-console.log(`Initial Fahenheit: ${temperature.getFahrenheit}°F`); // Outputs: Initial Fahrenheit
+console.log(`Initial Celcius: ${temperature.getCelcius}°C`); // Output: Initial Celcius
+console.log(`Initial Fahenheit: ${temperature.getFahrenheit}°F`); // Output: Initial Fahrenheit
 
 temperature.setCelcius = 25;
 console.log(`Updated Celcius: ${temperature.getCelcius}°C`);

@@ -49,7 +49,7 @@ admissionOffice.studentEnrolled(student2)
 admissionOffice.assignCourse(student1, 'Full Stack Web Developemnet')
 admissionOffice.assignCourse(student2, 'Data Science Masters')
 
-// student1.showCourses();
-// student2.showCourses();
+student1.showCourses();
+student2.showCourses();
 
 admissionOffice.showEnrolledStudents();

@@ -41,10 +41,10 @@ const myAccount = new BankAccount('Anas', 1000)
 myAccount.checkBalance();
 
 myAccount.deposit(500)
-// myAccount.deposit(-50)
+myAccount.deposit(-50)
 
-// myAccount.withdraw(200)
-// myAccount.withdraw(1200)
-// myAccount.withdraw(-20)
+myAccount.withdraw(200)
+myAccount.withdraw(1200)
+myAccount.withdraw(-20)
 
-// myAccount.checkBalance()
+myAccount.checkBalance()
