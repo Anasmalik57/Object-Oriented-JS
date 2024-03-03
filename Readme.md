@@ -9,6 +9,7 @@ This repository contains solutions to various Object-Oriented Programming (OOP) 
 3. Encapsulation
 4. Abstraction
 5. Polymorphism
+6. Getter & Setter
 
 ## Instructions
 
@@ -18,7 +19,6 @@ Each concept is implemented in a separate JavaScript file named accordingly. You
 
 To run the code, you can use any JavaScript environment or simply run the files in a web browser console.
 
-For example, to run the example of inheritance, you can open `inheritance.js` in a JavaScript environment and execute the code. Similarly, you can do this for other concepts as well.
 
 ## Concepts Description
 
